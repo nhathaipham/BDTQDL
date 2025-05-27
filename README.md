@@ -1,4 +1,5 @@
-# BDTQDL
+## BDTQDL
+# 1.1 Lời giới thiệu
      Điện thoại thông minh đóng một vai trò quan trọng trong xã hội hiện đại và đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của nhiều người. Chúng đóng vai trò là phương tiện liên lạc chính, cho phép người dùng thực hiện cuộc gọi điện thoại, gửi tin nhắn văn bản và email cũng như truy cập internet. Điện thoại thông minh cũng cung cấp nhiều tính năng và khả năng khác, bao gồm điều hướng GPS, phát lại nhạc và video cũng như khả năng chạy nhiều ứng dụng cho các tác vụ như mạng xã hội, ngân hàng và mua sắm.
      Điện thoại thông minh cũng đã trở thành một công cụ quan trọng đối với nhiều doanh nghiệp, vì chúng cung cấp một cách thuận tiện để nhân viên duy trì kết nối và cộng tác khi đang di chuyển. Ngoài ra, điện thoại thông minh đã cách mạng hóa các ngành như bán lẻ, vận tải và chăm sóc sức khỏe bằng cách cung cấp những cách mới để các công ty tương tác với khách hàng và hợp lý hóa hoạt động.
      Nhìn chung, điện thoại thông minh đã mở rộng đáng kể khả năng và sự tiện lợi của giao tiếp hiện đại, đồng thời có tác động đáng kể đến các khía cạnh khác nhau của cuộc sống hàng ngày và trong cả kinh doanh.
